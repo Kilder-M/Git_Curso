@@ -1,3 +1,6 @@
 Estudando git hub
 
-Editandp o arquivo
+Editando o arquivo
+
+com sucesso ! 
+
